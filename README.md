@@ -1,9 +1,8 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY3NjM3MjUsIm5iZiI6MTcyNjc2MzQyNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE5VDE2MzAyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljOGZmZWU4YTJiOTQ1Y2VlNzBhMGU1M2ExOGE3N2ZjYTI5MWYzNzkyYmJkMTAzOTJmNjkxZmQ5MTZjMTY3N2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eIkb6JEBts5K815tTT-0ILfFuoW8eZrkQ-4MhP_JJFQ)
+![MasterHead](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)
 
 <h1 align="center">Hi 👋, I'm Arik Rai</h1>
 <h3 align="center">A passionate web developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killuaz01&label=Profile%20views&color=0e75b6&style=flat" alt="killuaz01" /> </p>
+<img align="left" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🔭 I’m currently working on **BrickSync**
 
