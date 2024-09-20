@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arik Rai</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/ad/1b/39/ad1b3936a0dec91213a34fd3883cc842.gif">
+<img align="right" alt="Coding" width="250" height="830" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif">
 
 - 🔭 I’m currently working on **BrickSync**
 - 🌱 I’m currently learning **JavaScript**
@@ -85,13 +85,13 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killuaz01&show_icons=true&locale=en&layout=compact" alt="killuaz01" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killuaz01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="killuaz01" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=killuaz01&show_icons=true&locale=en" alt="killuaz01" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=killuaz01&show_icons=true&locale=en&theme=tokyonight" alt="killuaz01" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killuaz01&" alt="killuaz01" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killuaz01&theme=tokyonight" alt="killuaz01" />
 </p>
