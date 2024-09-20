@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Arik Rai</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-<img align="right" alt="Coding" width="250" height="830" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif">
+<img align="right" alt="Coding" width="250" style="height:100vh;" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif">
+
 
 - 🔭 I’m currently working on **BrickSync**
 - 🌱 I’m currently learning **JavaScript**
