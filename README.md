@@ -1,9 +1,9 @@
-![MasterHead](https://i.pinimg.com/originals/9b/42/05/9b42059d8a17648c903c67979604dd76.gif)
+![MasterHead](https://i.imgur.com/7CQyKNe.gif)
 
 <h1 align="center">Hi 👋, I'm Arik Rai</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif">
 
 - 🔭 I’m currently working on **BrickSync**
 - 🌱 I’m currently learning **JavaScript**
