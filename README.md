@@ -95,8 +95,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<div style="display:flex; flex-direction:row">
-<div>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killuaz01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="killuaz01's Top Languages" />
 </p>
@@ -108,8 +107,6 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killuaz01&theme=tokyonight" alt="killuaz01's GitHub Streak" />
 </p>
-</div>
 
+![MasterFoot](https://i.imgur.com/fdJFumd.gif)
 
-<img align="right" alt="Coding" width="300" style="height:100vh;" src="https://i.pinimg.com/originals/87/e9/e6/87e9e666fb134a6ea0ad3ca4ba7f859b.gif">
-</div>
