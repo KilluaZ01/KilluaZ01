@@ -97,16 +97,25 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killuaz01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="killuaz01's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=killuaz01&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+       alt="killuaz01's Top Languages" 
+       style="display: block; margin: auto;" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=killuaz01&show_icons=true&locale=en&theme=tokyonight" alt="killuaz01's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=killuaz01&show_icons=true&locale=en&theme=tokyonight" 
+       alt="killuaz01's GitHub Stats" 
+       style="display: block; margin: auto;" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killuaz01&theme=tokyonight" alt="killuaz01's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killuaz01&theme=tokyonight" 
+       alt="killuaz01's GitHub Streak" 
+       style="display: block; margin: auto;" />
 </p>
+
+
+
 
 ![MasterFoot](https://i.imgur.com/fdJFumd.gif)
 
