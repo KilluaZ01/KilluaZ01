@@ -94,9 +94,9 @@
 
 ---
 
-<div align="center">
+[<div align="center">
   <img src="https://i.pinimg.com/originals/55/37/0b/55370b59ece062434a31563544d0c7be.gif" alt="MidGIF"/>
-</div>
+</div>](https://github-readme-activity-graph.vercel.app/graph?username=KilluaZ01&theme=tokyonight)
 
 ---
 
