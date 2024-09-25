@@ -94,7 +94,9 @@
 
 ---
 
-<img src="https://i.pinimg.com/originals/55/37/0b/55370b59ece062434a31563544d0c7be.gif" align="center" alt="MidGIF"/>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/55/37/0b/55370b59ece062434a31563544d0c7be.gif" alt="MidGIF"/>
+</div>
 
 ---
 
