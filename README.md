@@ -93,7 +93,9 @@
 </p>
 
 ---
-<img src="https://i.pinimg.com/originals/55/37/0b/55370b59ece062434a31563544d0c7be.gif" alt="MidGIF" width="70" height="70"/>
+
+<img src="https://i.pinimg.com/originals/55/37/0b/55370b59ece062434a31563544d0c7be.gif" align="center" alt="MidGIF"/>
+
 ---
 
 ### 📊 GitHub Stats:
