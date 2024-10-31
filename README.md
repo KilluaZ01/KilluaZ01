@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Arik Rai</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-
 - 🔭 I’m currently working on **BrickSync**
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **MERN Stack**
@@ -97,27 +96,26 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=killuaz01&hide_border=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=killuaz01&hide_border=true&show_icons=true&locale=en&layout=compact&theme=nightowl" 
        alt="killuaz01's Top Languages" 
        style="display: block; margin: auto;" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=killuaz01&hide_border=true&show_icons=true&locale=en&theme=tokyonight" 
+  <img src="https://github-readme-stats.vercel.app/api?username=killuaz01&hide_border=true&show_icons=true&locale=en&theme=nightowl" 
        alt="killuaz01's GitHub Stats" 
        style="display: block; margin: auto;" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killuaz01&hide_border=true&theme=tokyonight" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killuaz01&hide_border=true&theme=nightowl"
        alt="killuaz01's GitHub Streak" 
        style="display: block; margin: auto;" />
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KilluaZ01&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" 
-       alt="killuaz01's Top Languages" 
-       style="display: block; margin: auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KilluaZ01&bg_color=0d1117&color=81a1c1&line=5e81ac&point=88c0d0&area=true&hide_border=true" 
+     alt="killuaz01's Activity Graph" 
+     style="display: block; margin: auto;" />
 </p>
 
 ![MasterFoot](https://i.imgur.com/fdJFumd.gif)
-
