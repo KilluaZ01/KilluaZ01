@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Web Developer</h3>
 
 - 🔭 I’m currently working on **BrickSync**
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript & Python**
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me: **raiarik97@gmail.com**
 
