@@ -100,11 +100,6 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killuaz01&hide_border=true&theme=nightowl"
-       alt="killuaz01's GitHub Streak" 
-       style="display: block; margin: auto;" />
-</p>
-<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KilluaZ01&bg_color=0d1117&color=81a1c1&line=5e81ac&point=88c0d0&area=true&hide_border=true" 
      alt="killuaz01's Activity Graph" 
      style="display: block; margin: auto;" />
