@@ -1,6 +1,6 @@
 ![MasterHead](https://i.imgur.com/7CQyKNe.gif)
 
-<h1 align="center">Hi 👋, I'm Arik Rai</h1>
+<h1 align="center">Hello 👋, I'm Arik Rai</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript & Python**
