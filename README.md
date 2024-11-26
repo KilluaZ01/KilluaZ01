@@ -9,7 +9,7 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect with me :
 
 <p align="left">
   <a href="https://linkedin.com/in/arik-rai-648b5b250" target="blank">
