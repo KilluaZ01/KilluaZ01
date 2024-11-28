@@ -84,7 +84,7 @@
 
 ---
 
-### 📊 GitHub Stat:
+### 📊 GitHub Stat :
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=killuaz01&hide_border=true&show_icons=true&locale=en&layout=compact&theme=nightowl" 
