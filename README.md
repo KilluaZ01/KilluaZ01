@@ -41,9 +41,6 @@
 
   
   <!-- Frontend Frameworks and Libraries -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
