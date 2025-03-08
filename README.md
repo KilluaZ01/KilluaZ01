@@ -1,10 +1,10 @@
 ![MasterHead](https://i.imgur.com/7CQyKNe.gif)
 
 <h1 align="center">Hello 👋, I'm Arik Rai</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">A Passionate Python Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript & Python**
-- 💬 Ask me about **MERN Stack**
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **Data Science**
 - 📫 How to reach me: **raiarik97@gmail.com**
 
 ---
