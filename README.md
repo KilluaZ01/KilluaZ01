@@ -9,6 +9,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KilluaZ01&theme=gruvbox&no-frame=true&column=7" alt="KilluaZ01 trophies" />
+</p>
+
+---
+
 ### 📫 Connect with me :
 
 <p align="left">
