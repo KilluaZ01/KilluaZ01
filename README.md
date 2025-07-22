@@ -46,7 +46,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vscode.svg" alt="VSCode" width="40" height="40"/>
 </p>
 
 #### 🗃️ Databases
@@ -77,6 +76,23 @@
 
 ---
 
+### 🧭 Developer Mode
+
+![Mode](https://img.shields.io/badge/Mode-Deep%20Work-darkblue)
+![State](https://img.shields.io/badge/State-Flow%20State-yellow)
+![Fuel](https://img.shields.io/badge/Fuel-Coffee☕%20%7C%20Green%20Tea🍵-brown)
+![Energy](https://img.shields.io/badge/Energy-73%25-green)
+![Focus](https://img.shields.io/badge/Focus-Laser%20Sharp-blue)
+![Interruptions](https://img.shields.io/badge/Notifications-Off-red)
+![Music](https://img.shields.io/badge/Now%20Playing-LoFi🎧-orange)
+![Sleep](https://img.shields.io/badge/Sleep-Scheduled🛌-grey)
+![Mood](https://img.shields.io/badge/Mood-Stoic🧘‍♂️-blueviolet)
+![Editor](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode)
+![Terminal](https://img.shields.io/badge/Terminal-Neovim💻-informational)
+![Status](https://img.shields.io/badge/Status-Building...🚀-success)
+
+---
+
 ### 🌐   Connect with Me
 
 <p align="left">
@@ -97,5 +113,3 @@
 > So when we are hindered or disturbed, let us never blame others, but ourselves,  
 > that is, our opinions."*  
 > — **Epictetus**
-
-![MasterFoot](https://s4.ezgif.com/tmp/ezgif-417ce8b6892d55.gif)
