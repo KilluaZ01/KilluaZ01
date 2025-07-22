@@ -65,6 +65,38 @@
 
 ---
 
+### 🧭 Developer Mode
+
+#### 🧠 Philosophy
+![🧠 Mindset](https://img.shields.io/badge/🧠%20Mindset-Focus%20on%20What%20You%20Can%20Control-4b6eaf)
+![🔥 Action](https://img.shields.io/badge/🔥%20Action-Discipline%20Over%20Motivation-3cb371)
+![🪨 Obstacle](https://img.shields.io/badge/🪨%20Obstacle-The%20Way%20Forward-696969)
+![😌 Emotion](https://img.shields.io/badge/😌%20Emotion-Stable%20%26%20Unshaken-8a2be2)
+![🧭 Decision](https://img.shields.io/badge/🧭%20Decision-Guided%20By%20Reason-00bfff)
+![⚖️ Judgment](https://img.shields.io/badge/⚖️%20Judgment-Suspend%20Until%20Evidence-a9a9a9)
+![🎯 Presence](https://img.shields.io/badge/🎯%20Presence-Here%20%26%20Now-ffd700)
+![🔁 Routine](https://img.shields.io/badge/🔁%20Routine-Daily%20Practice-228b22)
+![📝 Reflection](https://img.shields.io/badge/📝%20End%20of%20Day-Journaling-f4a460)
+
+#### 🧭 Environment
+![Mode](https://img.shields.io/badge/🧭%20Mode-Deep%20Work-191970)
+![State](https://img.shields.io/badge/🌊%20State-Flow%20State-ffcc00)
+![Focus](https://img.shields.io/badge/🎯%20Focus-Laser%20Sharp-1e90ff)
+![Interruptions](https://img.shields.io/badge/🔕%20Notifications-Off-b22222)
+![🔇 Silence](https://img.shields.io/badge/🔇%20Input-Silence%20>%20Noise-708090)
+![Sleep](https://img.shields.io/badge/🛌%20Sleep-Scheduled-708090)
+![Mood](https://img.shields.io/badge/🧘‍♂️%20Mood-Stoic-6a5acd)
+
+#### ⚙️ Tools & Energy
+![💻 Terminal](https://img.shields.io/badge/💻%20Terminal-Neovim-2e8b57)
+![🧠 Editor](https://img.shields.io/badge/🧠%20Editor-VSCode-007ACC?logo=visualstudiocode)
+![☕ Fuel](https://img.shields.io/badge/☕%20Fuel-Coffee%20%7C%20Green%20Tea-8b4513)
+![🔋 Energy](https://img.shields.io/badge/🔋%20Energy-73%25-32cd32)
+![🎧 Music](https://img.shields.io/badge/🎧%20Now%20Playing-LoFi-beige)
+![🚀 Status](https://img.shields.io/badge/🚀%20Status-Building...-20c997)
+
+---
+
 ### 📊   GitHub Stats
 
 <p align="center">
@@ -73,23 +105,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KilluaZ01&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages"/>
 </p>
-
----
-
-### 🧭 Developer Mode
-
-![Mode](https://img.shields.io/badge/Mode-Deep%20Work-darkblue)
-![State](https://img.shields.io/badge/State-Flow%20State-yellow)
-![Fuel](https://img.shields.io/badge/Fuel-Coffee☕%20%7C%20Green%20Tea🍵-brown)
-![Energy](https://img.shields.io/badge/Energy-73%25-green)
-![Focus](https://img.shields.io/badge/Focus-Laser%20Sharp-blue)
-![Interruptions](https://img.shields.io/badge/Notifications-Off-red)
-![Music](https://img.shields.io/badge/Now%20Playing-LoFi🎧-orange)
-![Sleep](https://img.shields.io/badge/Sleep-Scheduled🛌-grey)
-![Mood](https://img.shields.io/badge/Mood-Stoic🧘‍♂️-blueviolet)
-![Editor](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode)
-![Terminal](https://img.shields.io/badge/Terminal-Neovim💻-informational)
-![Status](https://img.shields.io/badge/Status-Building...🚀-success)
 
 ---
 
