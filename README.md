@@ -122,7 +122,7 @@
 
 ---
 
-### 🧘‍♂️   *Stoic Wisdom*
+### 🧘‍♂️   Stoic Wisdom
 
 > *"It is not things themselves that disturb us, but our opinions about them.  
 > So when we are hindered or disturbed, let us never blame others, but ourselves,  
