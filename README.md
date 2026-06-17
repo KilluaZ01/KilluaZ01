@@ -1,7 +1,7 @@
 ![MasterHead](./Media/Middle.gif)
 
 <h1 align="center">Hey there 👋, I'm Arik Rai</h1>
-<h3 align="center">Python Developer | Automation Enthusiast | Machine Learning Explorer</h3>
+<h3 align="center">Junior Python Developer | Automation Enthusiast | Machine Learning Explorer</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 - 📚 Constantly learning and experimenting with **AI/ML libraries, API integrations**, and **backend logic**
 - 🧠 Love solving real-world problems with code
 - 💬 Ask me about **Python, Data Science, Web Scraping, or AI concepts**
-- 📫 Reach me at **raiarik97@gmail.com**
+- 📫 Reach me at **info@arikrai.com.np**
 
 ---
 
@@ -120,10 +120,6 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/arik-rai-648b5b250" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/arik_raii" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
