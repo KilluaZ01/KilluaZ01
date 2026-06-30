@@ -65,8 +65,8 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KilluaZ01&theme=gruvbox&no-frame=true&column=7" alt="KilluaZ01 trophies" />
+ <p align="center">
+  <img src="https://github-profile-trophy-hnkf-arik-rais-projects.vercel.app/?username=KilluaZ01&theme=nord&no-frame=true&column=7" alt="KilluaZ01 trophies" />
 </p>
 
 ---
@@ -109,10 +109,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KilluaZ01&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KilluaZ01&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats-arik-rais-projects.vercel.app/api?username=KilluaZ01&show_icons=true&theme=nord&hide_border=true"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    height="180em"
+    src="https://github-readme-stats-arik-rais-projects.vercel.app/api/top-langs/?username=KilluaZ01&layout=compact&theme=nord&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
